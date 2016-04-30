@@ -10,7 +10,7 @@
 Version 1.0 of Webwrap has following contents
 <ul>
   <li><a href="#get">Getting Started</a></li>
-  <li><a href="#screen">Screen Shots</a></li>
+  <li><a href="#screen">Screenshots</a></li>
   <li><a href="#bugs">Bugs and feature requests</a></li>
   <li><a href="#creator">Creator</a></li>
   <li><a href="#license">License</a></li>
@@ -36,7 +36,7 @@ Version 1.0 of Webwrap has following contents
 </p>
 
 <a name="screen"></a>
-<h2>Screen Shots</h2>
+<h2>Screenshots</h2>
 <p>
 <strong>Bootstrap Jumbotron (Default)</strong>
 <img src="https://i.imgsafe.org/3bf07c8.png" height="600" width="1280"/>
