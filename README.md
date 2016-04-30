@@ -1,7 +1,8 @@
 # webwrap-v1.0
+<p><img src="https://i.imgsafe.org/42c195c.png" height="130" width="500"/></p>
 
 <h2>Introduction</h2>
-<p>Webwrap is small open source <strong>(just 3.2 kilobytes)</strong> Bootstrap extension for implementing Flat UI using Twitter Bootstrap. Web designers at <a href='http://www.webbakerz.com'>Web Bakerz</a> felt the need of a code snippet which could convert a website based on Twitter Bootstrap directly to flat UI without changing or interfearing with the functionality of the site. Hence giving rise to the birth of Webwrap.
+<p>Webwrap is small open source <strong>(just 3.2 kilobytes)</strong> Bootstrap extension for implementing Flat UI using Twitter Bootstrap. Web designers at <a href='http://www.webbakerz.com'>Web Bakerz</a> felt the need of a code snippet which could convert a website based on Twitter Bootstrap directly to flat UI without changing or interfering with the functionality of the site. Hence giving rise to the birth of Webwrap.
 </p>
 
 <h2>Table Of Contents</h2>
