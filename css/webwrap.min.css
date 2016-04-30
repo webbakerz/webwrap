@@ -1,0 +1,18 @@
+/*!
+ * Webwrap v1.0
+ * Licensed under MIT
+ * (https://github.com/webbakerz/webwrap/blob/master/LICENSE)
+ * 
+ * @author 
+ * Sidharth Malhotra (@sidharth0094)
+ * 
+ * @description 
+ * Webwrap is a Bootstrap extension for Flat UI 
+ * 
+ * @usage
+ * Just add Webwrap.min.css after bootstrap.min.css or 
+ * bootstrap.css in your project.
+ * 
+ * Happy Coding!!
+ */
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);.btn,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-md-10,.col-md-11,.col-md-12,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8>p,.col-sm-9,.col-xs-10,.col-xs-11,.col-xs-12,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9,.container .jumbotron,.container-fluid .jumbotron,.form-control,.img-rounded,.img-thumbnail,.modal-content,.nav-pills>li>a,.navbar,.tooltip-inner{border-radius:0}body{font-family:Ubuntu,sans-serif}.btn-danger{background:#e02421;color:#fff;border-color:#e02421}.btn-danger:hover{background:#fff;color:#e02421;border-color:#e02421}.btn-danger:active:focus{background:#e02421;color:#fff;border-color:#e02421}.btn-info:hover{background:#fff;color:#5bc0de;border-color:#5bc0de}.btn-info:active:focus{background:#5bc0de;color:#fff;border-color:#5bc0de}.btn-primary{background:#0C8B94;color:#fff;border-color:#0C8B94}.btn-primary:hover{background:#fff;color:#0C8B94;border-color:#0C8B94}.btn-primary:active:focus{background:#0e686d;color:#fff;border-color:#0e686d}.btn-success{background:#17AA1C;border-color:#17AA1C;color:#fff}.btn-warning{background:#f29410;color:#fff;border-color:#f29410}.btn-warning:hover{background:#fff;color:#f29410;border-color:#f29410}.btn-warning:active:focus{background:#f29410;color:#fff;border-color:#f29410}.btn-danger:hover,.btn-default:hover,.btn-info:hover,.btn-primary,.btn-success:hover,.btn-warning:hover{-webkit-transition:background .5s ease;transition:background .5s ease}.col-lg-10>p,.col-lg-11>p,.col-lg-12>p,.col-lg-3>p,.col-lg-4>p,.col-lg-5>p,.col-lg-6>p,.col-lg-7>p,.col-lg-8>p,.col-lg-9>p,.col-md-10>p,.col-md-11>p,.col-md-12>p,.col-md-3>p,.col-md-4>p,.col-md-5>p,.col-md-6>p,.col-md-7>p,.col-md-8>p,.col-md-9>p,.col-sm-10>p,.col-sm-11>p,.col-sm-12>p,.col-sm-3>p,.col-sm-4>p,.col-sm-5>p,.col-sm-6>p,.col-sm-7>p,.col-sm-8>p,.col-sm-9>p,.col-xs-10>p,.col-xs-11>p,.col-xs-12>p,.col-xs-3>p,.col-xs-4>p,.col-xs-5>p,.col-xs-6>p,.col-xs-7>p,.col-xs-8>p,.col-xs-9>p{text-align:justify}.btn-success:hover{background:#fff;color:#17AA1C;border-color:#17AA1C;-webkit-transition:background .5s ease;transition:background .5s ease}.list-group-item.active,.list-group-item.active:focus,.list-group-item.active:hover{background-color:#0C8B94;border-color:#0C8B94}.list-group-item:first-child{border-top-left-radius:0;border-top-right-radius:0}.list-group-item:last-child{border-bottom-right-radius:0;border-bottom-left-radius:0}.nav-pills>li.active>a,.nav-pills>li.active>a:focus,.nav-pills>li.active>a:hover,.nav-sidebar>.active>a,.nav-sidebar>.active>a:focus,.nav-sidebar>.active>a:hover{background-color:#0C8B94!important}.nav-sidebar>a,.nav-sidebar>a:focus,.nav-sidebar>a:hover,.nav-sidebar>a:visited{color:#0C8B94}
