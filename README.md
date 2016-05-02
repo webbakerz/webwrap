@@ -67,7 +67,11 @@ Version 1.0 of Webwrap has following contents
 
 <a name="updates"></a>
 <h2>Latest Updates</h2>
-<p>Support for transparent Navbar has been added. Now you can make your navbar transparent by adding the class <code>.nav-transparent</code> to <code>&lt;nav&gt;</code> tag of the navbar.</p>
+<p>
+<ul>
+<li>Support for transparent Navbar has been added. Now you can make your navbar transparent by adding the class <code>.nav-transparent</code> to <code>&lt;nav&gt;</code> tag of the navbar.</li>
+</ul>
+</p>
 
 
 
