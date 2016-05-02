@@ -1,4 +1,4 @@
-# webwrap-v1.0
+# webwrap-v1.1 with transparent navbar support
 <p><img src="https://i.imgsafe.org/42c195c.png" height="130" width="500"/></p>
 
 <h2>Introduction</h2>
@@ -11,6 +11,7 @@ Version 1.0 of Webwrap has following contents
 <ul>
   <li><a href="#get">Getting Started</a></li>
   <li><a href="#screen">Screenshots</a></li>
+  <li><a href="#updates">Latest Updates</a></li>
   <li><a href="#bugs">Bugs and feature requests</a></li>
   <li><a href="#creator">Creator</a></li>
   <li><a href="#license">License</a></li>
@@ -63,6 +64,12 @@ Version 1.0 of Webwrap has following contents
 <strong>Navbar Template (with Webwrap)</strong>
 <img src="https://i.imgsafe.org/02f0615.png" height="600" width="1280"/>
 </p>
+
+<a name="updates"></a>
+<h2>Latest Updates</h2>
+<p>Support for transparent Navbar has been added. Now you can make your navbar transparent by adding the class <code>.nav-transparent</code> to <code>&lt;nav&gt;</code> tag of the navbar.</p>
+
+
 
 <a name="bugs"></a>
 <h2>Bugs and feature requests</h2>
