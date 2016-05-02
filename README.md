@@ -10,8 +10,8 @@
 Version 1.0 of Webwrap has following contents
 <ul>
   <li><a href="#get">Getting Started</a></li>
+   <li><a href="#updates">Latest Updates</a></li>
   <li><a href="#screen">Screenshots</a></li>
-  <li><a href="#updates">Latest Updates</a></li>
   <li><a href="#bugs">Bugs and feature requests</a></li>
   <li><a href="#creator">Creator</a></li>
   <li><a href="#license">License</a></li>
@@ -34,6 +34,14 @@ Version 1.0 of Webwrap has following contents
     &lt;link href="css/webwrap.min.css" rel="stylesheet"/&gt;
   </code></li>
 </ol>
+</p>
+
+<a name="updates"></a>
+<h2>Latest Updates</h2>
+<p>
+<ul>
+<li>Support for transparent Navbar has been added. Now you can make your navbar transparent by adding the class <code>.nav-transparent</code> to <code>&lt;nav&gt;</code> tag of the navbar.</li>
+</ul>
 </p>
 
 <a name="screen"></a>
@@ -64,15 +72,6 @@ Version 1.0 of Webwrap has following contents
 <strong>Navbar Template (with Webwrap)</strong>
 <img src="https://i.imgsafe.org/02f0615.png" height="600" width="1280"/>
 </p>
-
-<a name="updates"></a>
-<h2>Latest Updates</h2>
-<p>
-<ul>
-<li>Support for transparent Navbar has been added. Now you can make your navbar transparent by adding the class <code>.nav-transparent</code> to <code>&lt;nav&gt;</code> tag of the navbar.</li>
-</ul>
-</p>
-
 
 
 <a name="bugs"></a>
