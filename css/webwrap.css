@@ -1,5 +1,5 @@
 /*!
- * Webwrap v1.1
+ * Webwrap v1.2
  * Licensed under MIT
  * (https://github.com/webbakerz/webwrap/blob/master/LICENSE)
  * 
@@ -22,12 +22,7 @@ body{
  font-family: 'Ubuntu', sans-serif;
 }
 
-
 .btn{
- border-radius: 0px;    
-}
-
-.form-control{
  border-radius: 0px;    
 }
 
@@ -130,6 +125,27 @@ color:#fff;
 
 .dropdown-menu{
  border-radius: 0px;   
+}
+
+.fade-carousel > .carousel-inner > .item {
+  opacity: 0.4;
+   transition: opacity 0.8s ease;
+  -webkit-transition: opacity 0.8s ease;
+  -moz-transition: opacity 0.8s ease;
+  -o-transition: opacity 0.8s ease;
+}
+
+.fade-carousel > .carousel-inner > .active {
+  opacity: 1;
+}
+
+.fade-carousel > .carousel-inner > .left,
+.fade-carousel > .carousel-inner > .right {
+  opacity: 1;
+}
+
+.form-control{
+ border-radius: 0px;    
 }
 
 .img-thumbnail, .img-rounded{
