@@ -1,13 +1,12 @@
-# webwrap-v1.1 with transparent navbar support
+# webwrap-v1.2 with fading carousel support
 <p><img src="https://i.imgsafe.org/42c195c.png" height="130" width="500"/></p>
 
 <h2>Introduction</h2>
-<p>Webwrap is small open source <strong>(just 3.2 kilobytes)</strong> Bootstrap extension for implementing Flat UI using Twitter Bootstrap. Web designers at <a href='http://www.webbakerz.com'>Web Bakerz</a> felt the need of a code snippet which could convert a website based on Twitter Bootstrap directly to flat UI without changing or interfering with the functionality of the site. Hence giving rise to the birth of Webwrap.
+<p>Webwrap is small open source Bootstrap extension for implementing Flat UI using Twitter Bootstrap. Web designers at <a href='http://www.webbakerz.com'>Web Bakerz</a> felt the need of a code snippet which could convert a website based on Twitter Bootstrap directly to flat UI without changing or interfering with the functionality of the site. Hence giving rise to the birth of Webwrap.
 </p>
 
 <h2>Table Of Contents</h2>
 <p>
-Version 1.0 of Webwrap has following contents
 <ul>
   <li><a href="#get">Getting Started</a></li>
    <li><a href="#updates">Latest Updates</a></li>
@@ -40,7 +39,8 @@ Version 1.0 of Webwrap has following contents
 <h2>Latest Updates</h2>
 <p>
 <ul>
-<li>Support for transparent Navbar has been added. Now you can make your navbar transparent by adding the class <code>.nav-transparent</code> to <code>&lt;nav&gt;</code> tag of the navbar.</li>
+<li>v1.2 - Now you can add fading effect to your carousel by adding the class <code>.fade-carousel</code> to the very first <code>&lt;div&gt;</code> tag of the carousel i.e the <code>&lt;div&gt;</code> tag with id <code>myCarousel</code>.</li>
+<li>v1.1 - Support for transparent Navbar has been added. Now you can make your navbar transparent by adding the class <code>.nav-transparent</code> to <code>&lt;nav&gt;</code> tag of the navbar.</li>
 </ul>
 </p>
 
