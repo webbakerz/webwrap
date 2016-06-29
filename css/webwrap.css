@@ -236,6 +236,10 @@ border-radius:0px;
  border-bottom-left-radius:0px;
 }
 
+.row{
+ max-width:100%;  
+}
+
 .tooltip-inner{
   border-radius: 0px;  
 }
